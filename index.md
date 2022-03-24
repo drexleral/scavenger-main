@@ -4,7 +4,7 @@ There are 4 web pages you need to reveal their secrets. Each web page talks abou
 
 
 ### Monalisa
-Learn Leonardo Da Vince secrets ![here(https://drexleral.github.io/scavenger-case1/)](https://drexleral.github.io/scavenger-case1/)
+Learn Leonardo Da Vince secrets [here](https://drexleral.github.io/scavenger-case1/)
 
 ### Smile.JPEG
 Learn the mysterious image that floats on the internet [here](https://drexleral.github.io/scavenger-case2/)
