@@ -19,7 +19,7 @@ The first long way communication, learn how it was developed [here](https://drex
 ### Mission
 Upon observation on these pages, there is a pattern "password is ____________" found, but the blank is always been a mystery.
 
-Detectives, find the missing password per web pages and email those password @ xyverous@gmail.com
+Detectives, find the missing passwords per web page and email those passwords @ xyverous@gmail.com
 
 You only have until 3pm of 25 March 2022 (GMT+8).
 
