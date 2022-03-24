@@ -16,8 +16,8 @@ One of the greatest mind in computer science, learn about him ![here](https://dr
 The first long way communication, learn how it was developed ![here](https://drexleral.github.io/scavenger-case4/)
 
 
+### Mission
 Upon observation on these pages, there is a pattern "password is ____________" found, but the blank is always been a mystery.
-
 
 Detectives, find the missing password per web pages and email those password @ xyverous@gmail.com
 
