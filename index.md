@@ -3,13 +3,17 @@
 There are 4 web pages you need to reveal their secrets. Each web page talks about a topic of history, and every history always hides a secret. 
 
 
-### ![Monalisa](https://drexleral.github.io/scavenger-case1/)
+### Monalisa
+Learn Leonardo Da Vince secrets ![here](https://drexleral.github.io/scavenger-case1/)
 
-### ![Smile.JPEG](https://drexleral.github.io/scavenger-case2/)
+### Smile.JPEG
+Learn the mysterious image that floats on the internet ![here](https://drexleral.github.io/scavenger-case2/)
 
-### ![Alan Turing](https://drexleral.github.io/scavenger-case3/)
+### Alan Turing
+One of the greatest mind in computer science, learn about him ![here](https://drexleral.github.io/scavenger-case3/)
 
-### ![Telegraph](https://drexleral.github.io/scavenger-case4/)
+### Telegraph
+The first long way communication, learn how it was developed ![here](https://drexleral.github.io/scavenger-case4/)
 
 
 Upon observation on these pages, there is a pattern "password is ____________" found, but the blank is always been a mystery.
